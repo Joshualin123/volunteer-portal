@@ -1,0 +1,10 @@
+{
+  "description": "Connects volunteers with local opportunities while helping organizations manage postings and applicants and administrators oversee accounts and approvals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
